@@ -1,0 +1,52 @@
+# STM32CubeIDE generated build output
+Debug/
+Release/
+Build/
+build/
+
+# Compiled object and binary files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+*.su
+*.cyclo
+*.srec
+*.a
+
+# CubeIDE / Eclipse local metadata
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+*.launch.bak
+.sc_ide_workspace/
+
+# Debug / SWV / trace output
+*.swv
+*.log
+*.rtt
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other IDEs (if you ever open the project in them)
+.vscode/
+.idea/
+*.uvguix.*
+*.uvoptx
+*.dep
+*.crf
+*.o.d
